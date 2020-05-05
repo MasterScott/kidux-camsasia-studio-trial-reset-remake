@@ -1,4 +1,4 @@
-# Kidux's Camstadia Studio Trial Reset Remake
+# Kidux's Camstasia Studio Trial Reset Remake
 
 PS: this isn't a 1:1 copy, features like the daily reset doesn't really work, it only disables itself if it sees you're not under windows 7, the GUI is the exact same as the original
 
