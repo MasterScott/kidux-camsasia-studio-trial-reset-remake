@@ -1,4 +1,4 @@
-# Kidux's Camstadia Studio Tria Reset Remake
+# Kidux's Camstadia Studio Trial Reset Remake
 
 Tools used:
 - Visual Studio 2010
